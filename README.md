@@ -1,9 +1,8 @@
-### Installation Instructions
+# Installation Instructions
 
 ## Android
 1. Download [Kiwi Browser](https://kiwibrowser.com/)
-2. Go to Kiwi Browser and install [Violentmonkey extension](https://chromewebstore.google.com/detail/violentmonkey/jinjacc
-algkegednnccohejagnlnfdag)
+2. Go to Kiwi Browser and install [Violentmonkey extension](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
 3. Go to the extension, click plus, paste TapSwap X code and click "Save & Close"
 4. Go to [Telegram Web](https://web.telegram.org/) and launch TapSwap bot
 
@@ -15,7 +14,6 @@ algkegednnccohejagnlnfdag)
 
 ## PC
 1. Go to any browser that has extensions available
-2. Install [Violentmonkey extension](https://chromewebstore.google.com/detail/violentmonkey/jinjacc
-algkegednnccohejagnlnfdag)
+2. Install [Violentmonkey extension](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
 3. Go to the extension, click plus, paste TapSwap X code and click "Save & Close"
 4. Go to [Telegram Web](https://web.telegram.org/) and launch TapSwap bot
